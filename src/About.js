@@ -44,11 +44,11 @@ function About(){
                 </div>
                 <div class="row text-center">
                 <div class="col-xl-3 col-sm-6 mb-5">
-                    <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://avatars.githubusercontent.com/u/97913824?v=4" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"></img>
-                    <h5 class="mb-0">Uday</h5>
+                    <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://bootstrapious.com/i/snippets/sn-about/avatar-3.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"></img>
+                    <h5 class="mb-0">Hruday</h5>
                     <ul class="social mb-0 list-inline mt-3">
-                        <li class="list-inline-item"><a href="https://instagram.com/uday_reddy_c?utm_medium=copy_link" class="social-link"><FontAwesomeIcon icon={faInstagram} size="2x" /></a></li>
-                        <li class="list-inline-item"><a href="http://www.linkedin.com/in/uday-cheekatipalli" class="social-link"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a></li>
+                        <li class="list-inline-item"><a href="https://instagram.com/hruday_kumar?utm_medium=copy_link" class="social-link"><FontAwesomeIcon icon={faInstagram} size="2x" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/hruday-bollepally-102502111" class="social-link"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a></li>
                     </ul>
                     </div>
                 </div>
@@ -62,20 +62,20 @@ function About(){
                     </div>
                 </div>
                 <div class="col-xl-3 col-sm-6 mb-5">
-                    <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://bootstrapious.com/i/snippets/sn-about/avatar-3.png" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"></img>
-                    <h5 class="mb-0">Hruday</h5>
-                    <ul class="social mb-0 list-inline mt-3">
-                        <li class="list-inline-item"><a href="https://instagram.com/hruday_kumar?utm_medium=copy_link" class="social-link"><FontAwesomeIcon icon={faInstagram} size="2x" /></a></li>
-                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/hruday-bollepally-102502111" class="social-link"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a></li>
-                    </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-sm-6 mb-5">
                     <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://avatars.githubusercontent.com/u/98074957?s=400&u=a990ce8b34faf068c1e1317bce763e07501e2e3a&v=4" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"></img>
                     <h5 class="mb-0">Sushma</h5>
                     <ul class="social mb-0 list-inline mt-3">
                         <li class="list-inline-item"><a href="https://instagram.com/sushma__chitturi?utm_medium=copy_link" class="social-link"><FontAwesomeIcon icon={faInstagram} size="2x" /></a></li>
                         <li class="list-inline-item"><a href="https://www.linkedin.com/in/sushma-chitturi-2ab024128" class="social-link"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a></li>
+                    </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-sm-6 mb-5">
+                    <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://avatars.githubusercontent.com/u/97913824?v=4" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm"></img>
+                    <h5 class="mb-0">Uday</h5>
+                    <ul class="social mb-0 list-inline mt-3">
+                        <li class="list-inline-item"><a href="https://instagram.com/uday_reddy_c?utm_medium=copy_link" class="social-link"><FontAwesomeIcon icon={faInstagram} size="2x" /></a></li>
+                        <li class="list-inline-item"><a href="http://www.linkedin.com/in/uday-cheekatipalli" class="social-link"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a></li>
                     </ul>
                     </div>
                 </div>
