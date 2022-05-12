@@ -1,8 +1,6 @@
 # Keep-View-Note
 Create notes, lock your notes, share your notes.
 
-### Group Name: Quad-Squad
-
 This app was build using [Brief: Evernote Replacement](https://github.com/thegoldenmule/csci-5030/blob/develop/notes/briefs/evernote.md).
 
 ## Our Design Principle
