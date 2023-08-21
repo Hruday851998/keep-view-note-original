@@ -48,7 +48,7 @@ function About(){
                     <h5 class="mb-0">Hruday</h5>
                     <ul class="social mb-0 list-inline mt-3">
                         <li class="list-inline-item"><a href="https://instagram.com/hruday_kumar?utm_medium=copy_link" class="social-link"><FontAwesomeIcon icon={faInstagram} size="2x" /></a></li>
-                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/hruday-bollepally-102502111" class="social-link"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/hruday-kumar-bollepally-102502111" class="social-link"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a></li>
                     </ul>
                     </div>
                 </div>
