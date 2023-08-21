@@ -1,5 +1,4 @@
 import "./App.css";
-import ViewCount from "./ViewCount.jsx";
 import Header from "./Header";
 import { BrowserRouter as Router,Routes, Route, Link } from 'react-router-dom';
 import About from "./About";
@@ -19,7 +18,7 @@ function App() {
       <Router>
         <HeaderWithNavigation />
           <Routes>
-            <Route exact path='/' element={< ViewCount />}></Route>
+            <Route exact path='/' element={<Login/>}></Route>
             <Route path="/about" element={<About/>}></Route>
             <Route exact path='/register' element={<Register/>}></Route>
             <Route exact path='/login' element={<Login/>}></Route>
